@@ -1,0 +1,8 @@
+{
+    "binance_api_key": "zbgGxngVWE8chWlbRv05BEJWiGzP9Tp9TXJP6yf3nAFU3xahIm4aivnCeXWtWpMK",
+    "binance_api_secret": "AZvz11pDMzD5845ligInzW6zZDXbakzJ6FBNP71EPKM55qvNAKnjTUBR0fxXRDBR",
+    "telegram_token": "8370559346:AAH4fO7x34o195nGws-3YPe2fVN5TTvd9Kc",
+    "telegram_chat_id": "5548698322",
+    "symbols": ["BTCUSDT", "ETHUSDT", "BNBUSDT", "SOLUSDT", "XRPUSDT"],
+    "quantity": 0.001
+}

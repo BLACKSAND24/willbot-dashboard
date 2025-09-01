@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "BNBUSDT",
+        "BTCUSDT",
+        "ETHUSDT",
+        "klines",
+        "macd",
+        "SOLUSDT",
+        "XRPUSDT"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\WILL\\AppData\\Roaming\\uv\\python\\cpython-3.9.19-windows-x86_64-none\\python.exe"
+}
